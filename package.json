@@ -2,10 +2,10 @@
   "name": "avtaar_ass_1",
   "version": "1.0.0",
   "description": "",
-  "main": "assgn1.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node unique_id.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
