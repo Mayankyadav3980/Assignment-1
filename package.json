@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6",
+    "validator": "^13.7.0"
+  },
+  "name": "avtaar",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayankyadav3980/Avtaar.git"
+  },
+  "author": "mayank yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayankyadav3980/Avtaar/issues"
+  },
+  "homepage": "https://github.com/Mayankyadav3980/Avtaar#readme"
+}
